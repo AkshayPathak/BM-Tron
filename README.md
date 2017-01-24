@@ -1,3 +1,3 @@
 # BM-Tron
 
-Work-in-progress
+A two player snake game!
